@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Chongyang Shi who is currently a undergraduate student majoring in statistics in Southern University of Science and Technology (SUSTech).👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AronYoung414)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronYoung414)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AronYoung414/AronYoung414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
