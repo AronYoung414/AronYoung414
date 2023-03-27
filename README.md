@@ -1,4 +1,4 @@
-### Hi there, my name is Chongyang Shi who is currently a undergraduate student majoring in statistics in Southern University of Science and Technology (SUSTech).👋
+### Hi there, it's Chongyang in UF! A new phd student in ECE department.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AronYoung414)](https://github.com/anuraghazra/github-readme-stats)
 
